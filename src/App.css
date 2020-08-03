@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #ffffff;
+  background-image: url("./assets/images/background.png");
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+/* image size in portfolio */
+
+.imgsize {
+  width: 300px;
+  height: 200px;
+  margin: 15px auto;
+}
+
+/* Text outline for readability under portfolio images */
+
+.outline {
+  color: #fff;
+  text-shadow: #000 0px 0px 5px;
+  -webkit-font-smoothing: antialiased;
+}
