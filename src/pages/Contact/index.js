@@ -23,11 +23,6 @@ function Contact() {
           <LinkedInBtn />
         </RowContainer>
         <br />
-        <RowContainer>
-          <ColSpacer />
-          <ColSpacer />
-          <TwitterBtn />
-        </RowContainer>
       </Fade>
     </Container>
   );
