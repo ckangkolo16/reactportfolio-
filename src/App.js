@@ -16,7 +16,7 @@ class App extends Component {
               <Link to="/contact">Contact</Link>
             </Navigation>
           </Header>
-          <Drawer title="Title">
+          <Drawer title="Chobu Kangkolo">
             <Navigation>
               <Link to="/resume">Resume</Link>
               <Link to="/aboutme">About Me</Link>
